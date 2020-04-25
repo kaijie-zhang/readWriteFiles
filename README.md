@@ -16,6 +16,6 @@ file. So something like this:
 Alternatively, you can run the testProgram.bat script to test the program in all scenarios, as well as compare the diff.
 
 
-## Nice to haves that didn't happen:
+## Nice to haves for the future:
 Include Apache Commons to force delete output files before writing to them, in case they are open by the user
 Find third party library for parsing .prn files
